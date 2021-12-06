@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - MapCollider
+  - Enemy
+  - Light
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - base
+  - base deco
+  - walls
+  - walls2ndfloor
+  - void
+  - fireball
+  - enemy
+  - collider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 1034193859
+    locked: 0
+  - name: First floor decoration
+    uniqueID: 4104874497
+    locked: 0
+  - name: Floor deco
+    uniqueID: 68801583
+    locked: 0
+  - name: Walls
+    uniqueID: 5318015
+    locked: 0
+  - name: Walls decoration
+    uniqueID: 2165875551
+    locked: 0
+  - name: Player
+    uniqueID: 2919097503
+    locked: 0
+  - name: fireball
+    uniqueID: 4271170365
+    locked: 0
+  - name: Enemy
+    uniqueID: 3403629567
+    locked: 0
+  - name: second floor
+    uniqueID: 3767390023
+    locked: 0
+  - name: collider
+    uniqueID: 3374510137
+    locked: 0
+  - name: camera
+    uniqueID: 2978133411
+    locked: 0
